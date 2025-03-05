@@ -23,7 +23,7 @@ npx anmol
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-### <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0Zb3XyHPwiyAPj5JsSTErm&ust=1741273287049000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCowdOa84sDFQAAAAAdAAAAABAf" width="50"> A little more about me...  
+### <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
