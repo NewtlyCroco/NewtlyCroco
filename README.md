@@ -15,7 +15,6 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0Zb3XyHPwiyAPj5JsSTErm&ust=1741273287049000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCowdOa84sDFQAAAAAdAAAAABAf"</a>
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -24,7 +23,7 @@ npx anmol
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0Zb3XyHPwiyAPj5JsSTErm&ust=1741273287049000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCowdOa84sDFQAAAAAdAAAAABAf" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
