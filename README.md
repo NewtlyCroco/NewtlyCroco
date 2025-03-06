@@ -11,9 +11,7 @@
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+![NewtlyCrocos Stats](https://github-readme-stats.vercel.app/api?username=newtlycroco&show_icons=true&theme=radical)
 
 
 👇 Hit in your console or terminal to connect with me.
