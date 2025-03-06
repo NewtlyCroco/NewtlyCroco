@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
+[![Crocos Languages from last year](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
 
 
 👇 Hit in your console or terminal to connect with me.
