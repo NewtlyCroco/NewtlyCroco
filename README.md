@@ -23,6 +23,12 @@ ___
 
 [![crocos stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
 
+___
+Check out some of my coolest and current projects👇
+
+[![wakatime](https://wakatime.com/badge/user/521b79fe-f09e-48bf-9055-a67dcb91f8d0/project/3817b5ff-f05b-490b-ab62-69344f3b9b33.svg)](https://wakatime.com/badge/user/521b79fe-f09e-48bf-9055-a67dcb91f8d0/project/3817b5ff-f05b-490b-ab62-69344f3b9b33)
+___
+
 ### <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"> A little more about me...  
 
 ```c
