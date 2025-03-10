@@ -27,7 +27,7 @@ ___
 
 ```c
 const will_mitchell = {
-    pronouns: "He" | "Him",
+    pronouns: "He" | "They",
     education: {
         university: "Montana State University",
         degrees: ["B.S. in Computer Science", "B.A. in Philosophy"],
