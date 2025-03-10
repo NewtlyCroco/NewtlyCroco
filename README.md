@@ -28,41 +28,113 @@ npx anmol
 
 ### <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"> A little more about me...  
 
-```javascript
-const anmol = {
+```c
+const will_mitchell = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+    education: {
+        university: "Montana State University",
+        degrees: ["B.S. in Computer Science", "B.A. in Philosophy"],
+        gpa: 3.79,
+        studyAbroad: {
+            location: "Tampere University, Finland",
+            duration: "Jan 2025 – May 2025"
         },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        coursework: ["Data Structures/Algorithms", "Programming with C", "Database Systems",
+                     "Calculus", "Logic", "Web Design"]
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+    experience: {
+        teachingAssistant: {
+            course: "CSCI 127",
+            institution: "Montana State University",
+            semester: "Fall 2024",
+            responsibilities: [
+                "Mentored 35+ students",
+                "Provided debugging support",
+                "Graded assignments",
+                "Recognized for clear technical instruction"
+            ]
+        },
+        founder: {
+            company: "Vaporwave Advertising",
+            duration: "2019 – 2022",
+            responsibilities: [
+                "Developed web applications and automated Discord bots",
+                "Managed a team of designers and developers",
+                "Engineered real-time engines for interactive RPG bot"
+            ]
+        },
+        leadership: {
+            ostem: {
+                role: "Treasurer",
+                duration: "Aug 2023 – Present",
+                achievements: [
+                    "Secured $1,500+ for national conferences",
+                    "Managed club finances",
+                    "Organized technology-focused events",
+                    "Elected co-president for Fall 2025"
+                ]
+            },
+            fashionClub: {
+                role: "Founder/President",
+                duration: "Nov 2023 – Present",
+                achievements: [
+                    "Launched student fashion organization",
+                    "Organized events and workshops",
+                    "Applied graphic design for marketing"
+                ]
+            }
+        },
+        research: {
+            title: "CSCI 440 Redesign",
+            start: "Summer 2025",
+            details: [
+                "Collaborating with professor on curriculum redesign",
+                "Incorporating innovative teaching methods"
+            ]
+        },
+        hackathon: {
+            event: "AI Hackathon",
+            host: "ECIU University, Finland",
+            date: "March 2025",
+            project: "Developing AI chatbot for scholarship and research pairing"
+        }
     },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+    projects: {
+        vinylStoreCRUD: {
+            tech: ["Java", "JDBC", "SQLite"],
+            timeline: "Aug – Dec 2024",
+            description: "Backend prototype for managing an online vinyl store"
+        },
+        loxCompiler: {
+            tech: ["Java"],
+            timeline: "Dec 2024 – Present",
+            description: "Building a LOX compiler/interpreter with optimizations"
+        },
+        matrixOptimization: {
+            tech: ["C", "Python"],
+            timeline: "Jan 2025 – Present",
+            description: "Researching sparse matrix multiplication optimizations"
+        }
+    },
+    skills: {
+        programming: ["Python", "Java", "C", "SQL"],
+        databases: ["SQLite", "MongoDB", "Redis"],
+        backend: ["Flask", "REST APIs", "CRUD applications", "Caching"],
+        tools: ["GitHub", "VS Code", "Notion", "Zoom"]
+    },
+    awards: [
+        "Premier Scholarship Recipient, Montana State University",
+        "SET Honor Award – Best Teamwork & Sportsmanship in Tennis"
+    ],
+    volunteer: {
+        capMentor: {
+            duration: "Aug 2023 – Aug 2024",
+            description: "Mentored middle school students for academic and social growth"
+        }
+    },
+    funFact: "Once optimized matrix multiplication for fun!"
 };
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
