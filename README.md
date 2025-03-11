@@ -6,17 +6,17 @@
 
 ### ***Bachelor of Science in Computer Science & Bachelor of Arts in Philosophy (Honors College)*** 🧠💻
 
-🚀 Passionate about CS education, backend systems, databases, and software architecture! I aim to get my PhD and help shape the future of computer science. I also love embedded systems, web development, and optimizations! 
+🚀 Passionate about CS education, backend systems, databases, and software architecture! I aim to get my PhD and help shape the future of computer science. I also love embedded systems, web development, IOT, and more!! 
 
-📚 *Fun fact:* I love philosophy just as much as I love code. Ask me about the philosophy of AI! 
+📚 *Fun fact:* I love philosophy just as much as I love code. Ask me about the philosophy of AI, written many papers! 
 
-🕹️ Huge fan of DND, MTG, and anything nerdy. Also, I have a dog 🐶!  
+🕹️ Huge fan of DND, MTG, and anything nerdy. However simoultaniously run a fashion club at my university (MSU) Also, I have a dog 🐶!  
 ___
 
 ### 📊 Cool Stats!  
 👇 Everyone loves data, right?!?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco)
 
 ___
 
@@ -87,9 +87,8 @@ ___
 
 ### 🔗 Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Personal Website](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge)](https://YOUR-WEBSITE)
-[![CV](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://YOUR-CV-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/will-mitchell-83a603211)
+[![My Updated CV!](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vTOcUVDf8_tfMZDUB66j2myQbk_djneOE6XCXjQeQot_K0BsSokqJrlnAdoMzS6vUU9P5vx0pM4J4DO/pub)
 
 📬 *Want to chat? Feel free to reach out!* 
 ___
