@@ -1,31 +1,31 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Will! <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"></h2>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Undergrad at Montana State University! (MSU) </p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
-   
-   ***Bachelor of Science in Computer Science; Bachelor of Arts in Philosophy, Honors College*** 
 
-*Lover of all things nerdy! Aspiring to educate the computer science youth of the future and obtain my PHD (I really like computers) specialties include backend systems, databases, software architecture, embedded systems and more!*
+<p><em>🎓 Undergrad at Montana State University (MSU) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
+### ***Bachelor of Science in Computer Science & Bachelor of Arts in Philosophy (Honors College)*** 🧠💻
 
+🚀 Passionate about CS education, backend systems, databases, and software architecture! I aim to get my PhD and help shape the future of computer science. I also love embedded systems, web development, and optimizations! 
 
+📚 *Fun fact:* I love philosophy just as much as I love code. Ask me about the philosophy of AI! 
 
-
-
-👇 Everyone loves cool stats right?!? 
+🕹️ Huge fan of DND, MTG, and anything nerdy. Also, I have a dog 🐶!  
 ___
-👇My most used languages at the moment 😎 (Not necessarily indicative of skill)
 
+### 📊 Cool Stats!  
+👇 Everyone loves data, right?!?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco&theme=radical)
+
 ___
-👇 What I have been working on recently!
 
-
+### ⌨️ What I’ve been working on recently! 
 [![crocos stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
-### <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"> A little more about me...  
+### <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"> A little more about me...
 
 ```c
 const will_mitchell = {
@@ -38,8 +38,7 @@ const will_mitchell = {
             location: "Tampere University, Finland",
             duration: "Jan 2025 – May 2025"
         },
-        coursework: ["Data Structures/Algorithms", "Programming with C", "Database Systems",
-                     "Calculus", "Logic", "Web Design"]
+        coursework: ["Data Structures/Algorithms", "Programming with C", "Database Systems", "Calculus", "Logic", "Web Design"]
     },
     experience: {
         teachingAssistant: {
@@ -61,41 +60,6 @@ const will_mitchell = {
                 "Managed a team of designers and developers",
                 "Engineered real-time engines for interactive RPG bot"
             ]
-        },
-        leadership: {
-            ostem: {
-                role: "Treasurer",
-                duration: "Aug 2023 – Present",
-                achievements: [
-                    "Secured $1,500+ for national conferences",
-                    "Managed club finances",
-                    "Organized technology-focused events",
-                    "Elected co-president for Fall 2025"
-                ]
-            },
-            fashionClub: {
-                role: "Founder/President",
-                duration: "Nov 2023 – Present",
-                achievements: [
-                    "Launched student fashion organization",
-                    "Organized events and workshops",
-                    "Applied graphic design for marketing"
-                ]
-            }
-        },
-        research: {
-            title: "CSCI 440 Redesign",
-            start: "Summer 2025",
-            details: [
-                "Collaborating with professor on curriculum redesign",
-                "Incorporating innovative teaching methods"
-            ]
-        },
-        hackathon: {
-            event: "AI Hackathon",
-            host: "ECIU University, Finland",
-            date: "March 2025",
-            project: "Developing AI chatbot for scholarship and research pairing"
         }
     },
     projects: {
@@ -108,11 +72,6 @@ const will_mitchell = {
             tech: ["Java"],
             timeline: "Dec 2024 – Present",
             description: "Building a LOX compiler/interpreter with optimizations"
-        },
-        matrixOptimization: {
-            tech: ["C", "Python"],
-            timeline: "Jan 2025 – Present",
-            description: "Researching sparse matrix multiplication optimizations"
         }
     },
     skills: {
@@ -121,25 +80,24 @@ const will_mitchell = {
         backend: ["Flask", "REST APIs", "CRUD applications", "Caching"],
         tools: ["GitHub", "VS Code", "Notion", "Zoom"]
     },
-    awards: [
-        "Premier Scholarship Recipient, Montana State University",
-        "SET Honor Award – Best Teamwork & Sportsmanship in Tennis"
-    ],
-    volunteer: {
-        capMentor: {
-            duration: "Aug 2023 – Aug 2024",
-            description: "Mentored middle school students for academic and social growth"
-        }
-    },
-    funFact: "I love the outdoors, video games, and most of all DND and MTG (I know huge shocker) and anything with my dog! "
+    funFact: "I love the outdoors, video games, and most of all DND and MTG!"
 };
-
 ```
+___
+
+### 🔗 Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Personal Website](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge)](https://YOUR-WEBSITE)
+[![CV](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://YOUR-CV-LINK)
+
+📬 *Want to chat? Feel free to reach out!* 
+___
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+> **NOTE:** Top languages do not indicate skill level, just GitHub repo activity. Many other languages are not hosted here!
