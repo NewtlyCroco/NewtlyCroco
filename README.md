@@ -87,7 +87,7 @@ ___
 
 ### 🔗 Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/will-mitchell-83a603211)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmitchellmsu/)
 [![My Updated CV!](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vTOcUVDf8_tfMZDUB66j2myQbk_djneOE6XCXjQeQot_K0BsSokqJrlnAdoMzS6vUU9P5vx0pM4J4DO/pub)
 
 📬 *Want to chat? Feel free to reach out!* 
