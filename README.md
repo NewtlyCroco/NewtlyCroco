@@ -21,7 +21,7 @@ ___
 ___
 
 ### ⌨️ What I’ve been working on recently! 
-[![crocos stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
+[![crocos stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)
 
 ___
 
