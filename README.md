@@ -25,6 +25,14 @@ ___
 
 ___
 
+### 🔗 Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmitchellmsu/)
+[![My Updated CV!](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vTOcUVDf8_tfMZDUB66j2myQbk_djneOE6XCXjQeQot_K0BsSokqJrlnAdoMzS6vUU9P5vx0pM4J4DO/pub)
+
+📬 *Want to chat? Feel free to reach out!* 
+___
+
 ### <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"> A little more about me...
 
 ```c
@@ -83,16 +91,6 @@ const will_mitchell = {
     funFact: "I love the outdoors, video games, and most of all DND and MTG!"
 };
 ```
-___
-
-### 🔗 Connect with Me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmitchellmsu/)
-[![My Updated CV!](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vTOcUVDf8_tfMZDUB66j2myQbk_djneOE6XCXjQeQot_K0BsSokqJrlnAdoMzS6vUU9P5vx0pM4J4DO/pub)
-
-📬 *Want to chat? Feel free to reach out!* 
-___
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
