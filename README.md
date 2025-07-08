@@ -95,6 +95,4 @@ const will_mitchell = {
 
 ---
 
-**These Readme stats are generated using [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
 > **NOTE:** Top languages do not indicate skill level, just GitHub repo activity. Many other languages are not hosted here!
