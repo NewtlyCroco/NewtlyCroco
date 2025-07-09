@@ -14,14 +14,14 @@
 ___
 
 ### 📊 Cool Stats!  
-👇 Everyone loves data, right?!?
+👇 Everyone loves data, right?!? (Public Repos :))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco)
 
 ___
 
 ### ⌨️ What I’ve been working on recently! 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco&layout=pie)]
+[![NewtlyCroco Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
 ### 🔗 Connect with Me!
