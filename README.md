@@ -21,8 +21,7 @@ ___
 ___
 
 ### ⌨️ What I’ve been working on recently! 
-[![Top Langs](https://github-readme-stats.vercel.app/api/stats/?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco&layout=pie)]
 ___
 
 ### 🔗 Connect with Me!
