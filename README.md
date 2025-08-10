@@ -27,7 +27,7 @@ ___
 ### 🔗 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmitchellmsu/)
-[![My Updated CV!](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://docs.google.com/document/d/e/2PACX-1vS-mSybwx4XcAy4sjxKvfG53zMlJAdgvYLk0qyo1yNXJ4ZqY30hX8jmXsp9qcLDIQ/pub)
+[![My Updated CV!](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://docs.google.com/document/d/1iZs3_ws7YpKM_fOsiYL7jX7QnbwPLyAWl34wotrwbB8/edit?usp=sharing)
 
 📬 *Want to chat? Feel free to reach out!* 
 ___
