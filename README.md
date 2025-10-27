@@ -16,7 +16,7 @@ ___
 ### 📊 Cool Stats!  
 👇 Everyone loves data, right?!? (Public Repos :))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco&stats_format=bytes)
 
 ___
 
