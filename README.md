@@ -12,14 +12,6 @@
 
 🕹️ Huge fan of DND, MTG, and anything nerdy. However simoultaniously run a fashion club at my university (MSU) Also, I have a dog 🐶!  
 ___
-
-### 📊 Cool Stats!  
-👇 Everyone loves data, right?!? (Public Repos :))
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtlycroco&stats_format=bytes)
-
-___
-
 ### ⌨️ What I’ve been working on recently! 
 [![NewtlyCroco Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
 ___
