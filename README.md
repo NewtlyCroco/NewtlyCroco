@@ -6,6 +6,8 @@
 
 ### ***BA in Computer Science & Applied Mathematics | Minor in Philosophy*** 🧠💻
 
+Currently working as a Student Researcher for [The HyperMedia Research Group](https://hypermedia.cs.montana.edu/) at Montana State University!
+
 🚀 Passionate about backend systems, hypermedia architecture, compilers, and CS education! I aim to get my PhD and help shape the future of computer science. Currently researching hypermedia systems and AI integration.
 
 📚 *Fun fact:* I love philosophy just as much as I love code. Ask me about the philosophy of AI—I've written several papers on it! 
