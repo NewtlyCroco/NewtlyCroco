@@ -4,86 +4,66 @@
 
 <p><em>🎓 Undergrad at Montana State University (MSU) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-### ***Bachelor of Science in Computer Science & Bachelor of Arts in Philosophy (Honors College)*** 🧠💻
+### ***BA in Computer Science & Applied Mathematics | Minor in Philosophy*** 🧠💻
 
-🚀 Passionate about CS education, backend systems, databases, and software architecture! I aim to get my PhD and help shape the future of computer science. I also love embedded systems, web development, IOT, and more!! 
+🚀 Passionate about backend systems, hypermedia architecture, compilers, and CS education! I aim to get my PhD and help shape the future of computer science. Currently researching hypermedia systems and AI integration.
 
-📚 *Fun fact:* I love philosophy just as much as I love code. Ask me about the philosophy of AI, written many papers! 
+📚 *Fun fact:* I love philosophy just as much as I love code. Ask me about the philosophy of AI—I've written several papers on it! 
 
-🕹️ Huge fan of DND, MTG, and anything nerdy. However simoultaniously run a fashion club at my university (MSU) Also, I have a dog 🐶!  
-___
-### ⌨️ What I’ve been working on recently! 
-[![NewtlyCroco Stats](https://github-readme-stats.vercel.app/api/wakatime?username=newtlycroco)](https://github.com/anuraghazra/github-readme-stats)
+🕹️ Huge fan of DND, MTG, and the outdoors. I also run the fashion club at MSU and have a dog 🐶!  
 ___
 
-### 🔗 Connect with Me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/willmitchellmsu/)
-[![My Updated CV!](https://img.shields.io/badge/View%20My%20CV-green?style=for-the-badge)](https://docs.google.com/document/d/1iZs3_ws7YpKM_fOsiYL7jX7QnbwPLyAWl34wotrwbB8/edit?usp=sharing)
-
-📬 *Want to chat? Feel free to reach out!* 
-___
+### 🛠️ Tech Stack & Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp" width="50"> A little more about me...
 
-```c
+```javascript
 const will_mitchell = {
     pronouns: "He" | "They",
     education: {
         university: "Montana State University",
-        degrees: ["B.S. in Computer Science", "B.A. in Philosophy"],
-        gpa: 3.79,
-        studyAbroad: {
-            location: "Tampere University, Finland",
-            duration: "Jan 2025 – May 2025"
-        },
-        coursework: ["Data Structures/Algorithms", "Programming with C", "Database Systems", "Calculus", "Logic", "Web Design"]
+        degrees: ["B.A. in Computer Science", "B.A. in Applied Mathematics"],
+        studyAbroad: "Tampere University, Finland (Embedded Systems & Video Compression)",
     },
     experience: {
-        teachingAssistant: {
-            course: "CSCI 127",
-            institution: "Montana State University",
-            semester: "Fall 2024",
-            responsibilities: [
-                "Mentored 35+ students",
-                "Provided debugging support",
-                "Graded assignments",
-                "Recognized for clear technical instruction"
+        researcher: {
+            lab: "Hypermedia Research (MSU)",
+            focus: "HTMX-integrated AI-MCP research & Java-based web frameworks",
+            highlights: "Leading grant writer for NSF-TTP submission"
+        },
+        softwareIntern: {
+            company: "OERCA",
+            achievements: [
+                "Deployed OCEANV1, an internal knowledgebase LLM",
+                "Built custom agentic SQL database querying",
+                "Designed custom data entry UI for zoo/aquarium caretakers"
             ]
         },
-        founder: {
-            company: "Vaporwave Advertising",
-            duration: "2019 – 2022",
-            responsibilities: [
-                "Developed web applications and automated Discord bots",
-                "Managed a team of designers and developers",
-                "Engineered real-time engines for interactive RPG bot"
-            ]
+        openSource: {
+            project: "PikaORM",
+            role: "Development Contributor",
+            details: "Collaborating with Carson Gross (HTMX creator) to build a Java ORM framework"
         }
     },
     projects: {
-        vinylStoreCRUD: {
-            tech: ["Java", "JDBC", "SQLite"],
-            timeline: "Aug – Dec 2024",
-            description: "Backend prototype for managing an online vinyl store"
+        catScript: {
+            type: "Compiler Capstone",
+            description: "Built a statically typed language that transpiles to JS and compiles to JVM bytecode"
         },
-        loxCompiler: {
-            tech: ["Java"],
-            timeline: "Dec 2024 – Present",
-            description: "Building a LOX compiler/interpreter with optimizations"
+        aiHackathon: {
+            award: "Best Pitch Winner (ECIU University, Finland)",
+            description: "Developed AI chatbot for academic resource matching"
         }
-    },
-    skills: {
-        programming: ["Python", "Java", "C", "SQL"],
-        databases: ["SQLite", "MongoDB", "Redis"],
-        backend: ["Flask", "REST APIs", "CRUD applications", "Caching"],
-        tools: ["GitHub", "VS Code", "Notion", "Zoom"]
-    },
-    funFact: "I love the outdoors, video games, and most of all DND and MTG!"
+    }
 };
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
+## 🔗 Connect with Me!
+- 📬 Want to chat? Feel free to reach out!
 
-> **NOTE:** Top languages do not indicate skill level, just GitHub repo activity. Many other languages are not hosted here!
+*NOTE: Top languages do not indicate skill level, just GitHub repo activity. Many other languages are not hosted here!*
